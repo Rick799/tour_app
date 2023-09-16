@@ -1,0 +1,39 @@
+{"dataForTours": [
+{
+"id":1,
+"name":"Best of Rajasthan in 8 Days Tour",
+"info":"The land of kings, Rajasthan is a vibrant state that attracts history buffs, architecture lovers, wildlife enthusiasts and foodies alike.  From beautiful lakes, vast deserts and rich wildlife to magnificent palaces, forts and temples, the city has so many things for a wonderful vacation.  Exploring forts and palaces, paying respect at temples, enjoying folk dance and music festivals like Bikaner Camel Festival, Pushkar Fair, Gangaur Festival, Elephant Festival and Teej,gorging on delectable Rajasthani dishes are just an absolute treat!",
+"image":"https://static.toiimg.com/thumb/93105946/rajasthan.jpg?width=1200&height=900",
+"price": "23,999"
+},
+{
+"id":2,
+"name":"Best of Ladakh in 11 Days Tour",
+"info":"There are very few places in the world as enchanting as Ladakh and its capital Leh. Its mountainous landscapes, deep blue lakes and scenic road journeys have been luring travellers from all around the world. Alluring beauty aside, there are plenty of attractions to take in, from beautiful monasteries and elegant palaces to quaint villages and high mountain passes.Ladakh is the high-altitude Himalayan Mountain Region of India. The road to Ladakh will give you the complete vistas of the snowy Himalayas and that is just another add on.!",
+"image":"https://images.thrillophilia.com/image/upload/s--AC7EInAl--/c_fill,g_center,h_642,q_auto,w_1280/f_auto,fl_strip_profile/v1/images/photos/000/013/736/original/1626253725_shutterstock_1840637584.jpeg.jpg",
+"price": "33,999"
+},
+{
+"id":3,
+"name":"Best of Andaman in 9 Days Tour",
+"info":"Andaman and Nicobar Islands,  is one of the most beautiful places you can visit in India. The islands have been the favorite tourist destination for a while now and offer one of the most out-of-world, exquisite vacation spots in India. The glistening clean white sand beaches, wide shorelines and crystal blue water,  along with one of the greatest underwater biodiversity housing corals and sea dwellers offer a perfect place to take a dip or enjoy water sports throughout the day.!",
+"image":"https://static.toiimg.com/thumb/68814397/Andaman.jpg?width=1200&height=900",
+"price": "27,999"
+},
+{
+"id":4,
+"name":"Best of Kerala in 7 Days Tour",
+"info": "Kerala, fondly referred to as ‘God’s Own Country’, located on the south-western tip of India, enjoys unique geographical features that have made it one of the most sought-after tourist destinations in Asia. An equable climate, serene beaches, tranquil stretches of backwaters, lush hill stations and exotic wildlife are the major attractions of this land. Season never ends in Kerala, thanks to the year-long moderate climate and numerous festivals and events. Kerala is a haven for travellers who come here to unwind in the salubrious climes, away from the concrete jungle!",
+"image":"https://cdn.audleytravel.com/3355/2397/79/1016846-alleppey-backwaters-kerala.jpg",
+"price": "16,999"
+},
+{
+"id":5,
+"name":"Best of Arunachal in 10 Days Tour",
+"info":"Shying away in the North eastern corner of India, Arunachal Pradesh though may be an introvert when it comes to tourism, is a land of abundant travel opportunities. A treasure trove of culture, nature’s beauty, rich history and warm people, Arunachal is truly a land that one cannot afford to miss. Adorned with beautiful and unspoilt rivers, lakes, hills and valleys along with opulent wildlife and culture, this Northeastern state is indeed a dream travel destination in India. One of the major tourism attractions in Arunachal Pradesh is the opportunity for adventure sports.!",
+"image":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Tawang_Gate.jpg",
+"price": "18,999"
+}
+]
+}
+
