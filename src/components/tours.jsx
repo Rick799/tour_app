@@ -12,6 +12,7 @@ const Tours = ({ tours, removeTour }) => {
         <div className="w-32 h-1 bg-gradient-to-r from-purple-600 via-blue-500 to-green-300 mx-auto"></div>
       </div>
       <div>
+        {/* Mapping over the tours array to display individual tour components */}
         {tours.map((tour) => {
           return <Tour key={tour.id} {...tour} removeTour={removeTour} />;
         })}

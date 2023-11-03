@@ -3,9 +3,10 @@
 import { useState } from "react";
 
 const Tour = ({ id, image, info, name, price, removeTour }) => {
+  // State to handle the "read more" feature
   const [readMore, setReadMore] = useState(false);
   return (
-    <article className="bg-slate-100 my-8 mx-0 rounded-md shadow-md shadow-slate-400 ease-in duration-300 hover:shadow-slate-800">
+    <article className="bg-slate-100 my-8 mx-0 rounded-md shadow-xl shadow-slate-600  ease-in duration-300 hover:shadow-slate-900">
       <img
         className="w-full  object-cover h-80 rounded-tl-md rounded-tr-md hover:scale-105  duration-500 cursor-pointer"
         src={image}
@@ -30,7 +31,7 @@ const Tour = ({ id, image, info, name, price, removeTour }) => {
           </button>
         </p>
         <button
-          className="text-sm md:text-base block w-48 mt-5 mb-0 mx-auto py-1 px-2 tracking-wider text-red-700 border-2 border-red-700 capitalize rounded-md ease-linear duration-300 hover:shadow-lg hover:bg-red-100"
+          className="text-sm md:text-base block w-48 mt-10 mx-auto py-1 px-2 tracking-wider text-red-700 border-2 border-red-700 capitalize rounded-md ease-linear duration-300 hover:shadow-lg hover:bg-red-100"
           onClick={() => removeTour(id)}
         >
           not interested
